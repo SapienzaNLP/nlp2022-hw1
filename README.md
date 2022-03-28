@@ -23,7 +23,7 @@ This is the first homework of the NLP 2022 course at Sapienza University of Rome
 ## Requirements
 
 * Ubuntu distribution
-  * Either 21.10 or the current LTS are perfectly fine
+  * Either 21.10 or the current LTS (20.04) are perfectly fine
   * If you do not have it installed, please use a virtual machine (or install it as your secondary OS). Plenty of tutorials online for this part
 * [conda](https://docs.conda.io/projects/conda/en/latest/index.html), a package and environment management system particularly used for Python in the ML community
 
